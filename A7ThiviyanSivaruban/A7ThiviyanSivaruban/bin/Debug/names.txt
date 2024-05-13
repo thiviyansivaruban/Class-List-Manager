@@ -1,0 +1,5 @@
+Henrik,22
+Zosimus,15
+Kleon,9
+Gawel,9
+Lotta,19

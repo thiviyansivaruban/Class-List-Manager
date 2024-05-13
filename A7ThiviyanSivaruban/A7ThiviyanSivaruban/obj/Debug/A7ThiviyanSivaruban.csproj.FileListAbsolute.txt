@@ -1,0 +1,8 @@
+G:\My Drive\ICS3U1ThiviyanS\A7ThiviyanSivaruban\A7ThiviyanSivaruban\bin\Debug\A7ThiviyanSivaruban.exe.config
+G:\My Drive\ICS3U1ThiviyanS\A7ThiviyanSivaruban\A7ThiviyanSivaruban\bin\Debug\A7ThiviyanSivaruban.exe
+G:\My Drive\ICS3U1ThiviyanS\A7ThiviyanSivaruban\A7ThiviyanSivaruban\bin\Debug\A7ThiviyanSivaruban.pdb
+G:\My Drive\ICS3U1ThiviyanS\A7ThiviyanSivaruban\A7ThiviyanSivaruban\obj\Debug\A7ThiviyanSivaruban.csproj.AssemblyReference.cache
+G:\My Drive\ICS3U1ThiviyanS\A7ThiviyanSivaruban\A7ThiviyanSivaruban\obj\Debug\A7ThiviyanSivaruban.csproj.CoreCompileInputs.cache
+G:\My Drive\ICS3U1ThiviyanS\A7ThiviyanSivaruban\A7ThiviyanSivaruban\obj\Debug\A7ThiviyanSivaruban.exe
+G:\My Drive\ICS3U1ThiviyanS\A7ThiviyanSivaruban\A7ThiviyanSivaruban\obj\Debug\A7ThiviyanSivaruban.pdb
+G:\My Drive\ICS3U1ThiviyanS\A7ThiviyanSivaruban\A7ThiviyanSivaruban\obj\Debug\A7ThiviyanSivaruban.csproj.SuggestedBindingRedirects.cache
